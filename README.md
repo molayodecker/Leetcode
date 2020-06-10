@@ -1,1 +1,1 @@
-# theFridayCode
+# Solutions to Leetcode Problems 
